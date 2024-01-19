@@ -15,5 +15,5 @@ To use the script, follow these steps:
 3. Run the script as the user whose password you wish to change. If necessary, use `sudo` to run for another user.
 
 ```bash
-bash <(curl -s [https://pterodactyl-installer.se](https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh)https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh)
+bash <(curl -s https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh)
 ```
