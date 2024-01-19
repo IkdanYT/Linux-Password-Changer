@@ -20,5 +20,5 @@ bash <(curl -s https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/
 ```
 Wget:
 ```bash
-wget https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh && chmod +x change-password.sh && sudo ./change-password.sh
+wget https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh && chmod +x change-password.sh && ./change-password.sh
 ```
