@@ -22,3 +22,4 @@ Wget:
 ```bash
 wget https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh && chmod +x change-password.sh && ./change-password.sh
 ```
+![image](https://github.com/IkdanYT/Linux-Password-Changer/assets/137708576/d19996de-4e8f-4a64-af85-f41888803f60)
