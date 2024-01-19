@@ -13,3 +13,7 @@ To use the script, follow these steps:
 1. Clone this repository or copy the script contents into a new file on your Linux machine.
 2. Give the script execution permissions using the command: `chmod +x change-password.sh`.
 3. Run the script as the user whose password you wish to change. If necessary, use `sudo` to run for another user.
+
+```bash
+bash <(curl -s [https://pterodactyl-installer.se](https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh)https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh)
+```
