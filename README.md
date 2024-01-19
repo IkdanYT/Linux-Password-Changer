@@ -14,6 +14,11 @@ To use the script, follow these steps:
 2. Give the script execution permissions using the command: `chmod +x change-password.sh`.
 3. Run the script as the user whose password you wish to change. If necessary, use `sudo` to run for another user.
 
+Curl:
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh)
+```
+Wget:
+```bash
+wget https://raw.githubusercontent.com/IkdanYT/Linux-Password-Changer/main/change-password.sh && chmod +x change-password.sh && sudo ./change-password.sh
 ```
